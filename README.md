@@ -11,7 +11,7 @@ If you're good at explaining Verilog concepts with simple examples, we'd love to
 At the moment, this repository includes:
 
 * HDLBits solutions
-* Bug-finding exercises
+* Bug-finding exercises(Not yet)
 * Beginner-friendly Verilog examples
 
 More learning resources and projects will be added over time.
