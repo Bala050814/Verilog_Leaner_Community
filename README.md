@@ -1,6 +1,6 @@
-# Verilog Basics
+# Verilog Leaner Community
 
-Welcome to **Verilog Basics**! 
+Welcome to **Verilog Leaner Community**! 
 
 This repository is built for anyone interested in learning **Verilog HDL** through examples, explanations, and hands-on practice. Whether you're a beginner or an experienced developer, you're welcome to contribute and help others learn.
 
