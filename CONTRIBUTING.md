@@ -1,4 +1,4 @@
-# Contributing to Verilog_Leaner_Community
+# Contributing to Verilog_Learner_Community
 
 First of all, thank you for considering contributing! 🎉
 
