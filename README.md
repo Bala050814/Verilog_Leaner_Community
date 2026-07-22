@@ -42,8 +42,6 @@ After review, your contribution will be merged.
 If you're looking to make your **first open-source contribution**, this repository is a great place to start. Code examples, bug fixes, and new learning materials are all welcome.
 
 Let's learn Verilog together and build a helpful resource for the community.
-<p align="center">
-  <img src="src/banner.png" alt="Verilog Learner Community Banner" width="100%">
-</p>
+
 
 **Happy Coding! Happy Learning!** 🎉 
