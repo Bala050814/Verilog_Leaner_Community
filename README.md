@@ -37,6 +37,21 @@ After review, your contribution will be merged.
 * Follow consistent formatting and naming conventions.
 * Make sure your code compiles and works correctly before submitting.
 
+## 👨‍💼 For Industry Professionals
+
+If you're an FPGA or ASIC engineer, your experience can have a lasting impact on new learners.
+
+You can contribute by sharing examples that go beyond simply "working" code. Help beginners understand how real engineering teams approach RTL design by explaining:
+
+* How you interpret and break down a design requirement
+* How you structure and implement RTL in professional projects
+* The reasoning behind your coding style and design decisions
+* Trade-offs between different implementation approaches
+* Common pitfalls and best practices you've learned through experience
+
+Even a small, well-documented example can give students valuable insight into how RTL is designed and reviewed in industry, bridging the gap between classroom learning and professional engineering.
+
+
 ## Perfect for First-Time Contributors
 
 If you're looking to make your **first open-source contribution**, this repository is a great place to start. Code examples, bug fixes, and new learning materials are all welcome.
